@@ -1,2 +1,2 @@
-fsd.apocfly.com         Apoc-fly
+fly.skydreamclub.cn     Skydream
 flyatcsim.club			Flyatcsim
