@@ -1,5 +1,5 @@
-; 本文件数据来自 https://github.com/vatsimnetwork/euroscope-performance-data
-; 遵循其原始许可证MIT，已于"./LICENSE"放置该许可证
+;The file is from Github Project "https://github.com/vatsimnetwork/euroscope-performance-data".
+;MIT License | Copyright (c) 2023 VATSIM Inc
 
 PERFAC:A10
 PERFLINE:030:250:250:170:0:0:0:6500:1500
