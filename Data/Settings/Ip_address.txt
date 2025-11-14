@@ -1,2 +1,2 @@
-pilot.skylitefly.com	Skylite
+fsd.apocfly.com         Apoc-fly
 flyatcsim.club			Flyatcsim
