@@ -1,9 +1,9 @@
 # China-Mainland-Sector 开源扇区 (中国大陆)
-**由于中国港澳台地区使用不同的飞行规则，我们暂时没有制作相关扇区，预计在AIRAC2501能完善港澳台地区的扇区**
+**由于中国港澳台地区使用不同的飞行规则，我们暂时没有制作相关扇区，预计在AIRAC2901能完善港澳台地区的扇区**
 
 China-Mainland-sector开源扇区项目致力于提供免费、开源的 Euroscope 扇区以帮助来自世界各地的模拟管制爱好者获得更好的模拟飞行体验。
 
-如果您在使用扇区的过程中遇到了任何问题、或者有任何好的建议，欢迎在 ``Issues`` 页向我们提出！
+如果您在使用扇区的过程中遇到了任何问题、或者有任何好的建议，欢迎在[Issues](https://github.com/Flyleague-Collection/China-Mainland-Sector/issues)页向我们提出！
 
 如果您喜欢本扇区，欢迎您给扇区点点``Star``, 或者在下方赞赏我们，您的支持是我们更新的动力！
 
@@ -29,15 +29,15 @@ China-Mainland-sector开源扇区项目致力于提供免费、开源的 Euroscope 扇区以帮助来自
 
 | 情报区名称 | 导航数据版本 |
 | ---------- | ------------ |
-| ZBPE       | AIRAC2413    |
-| ZGZU       | AIRAC2413    |
-| ZHWH       | AIRAC2413    |
-| ZJSA       | AIRAC2413    |
-| ZLHW       | AIRAC2413    |
-| ZPKM       | AIRAC2413    |
-| ZSHA       | AIRAC2413    |
-| ZWUQ       | AIRAC2413    |
-| ZYSH       | AIRAC2413    |
+| ZBPE       | AIRAC2511    |
+| ZGZU       | AIRAC2511    |
+| ZHWH       | AIRAC2511    |
+| ZJSA       | AIRAC2511    |
+| ZLHW       | AIRAC2511    |
+| ZPKM       | AIRAC2511    |
+| ZSHA       | AIRAC2511    |
+| ZWUQ       | AIRAC2511    |
+| ZYSH       | AIRAC2511    |
 
 ------
 
